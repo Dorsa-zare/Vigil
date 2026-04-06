@@ -30,7 +30,7 @@ Instead of a static archive, Vigil treats memory as something spatial and cumula
 1. Open a terminal in this project folder:
 
 ```powershell
-cd C:\Users\do2ri\OneDrive\Documents\Vigil
+cd C:\Users\[user]\OneDrive\Documents\Vigil
 ```
 
 2. Create a local `.env` file from `.env.example`.
